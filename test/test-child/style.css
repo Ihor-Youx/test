@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/*
+Theme Name: Test Child
+Template: test
+Author: Ihor Azarenko
+*/
+.top-header .tel {
+	color: #fff;
+}
